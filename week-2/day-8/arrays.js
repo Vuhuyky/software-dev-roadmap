@@ -10,3 +10,4 @@ let subjects = ["Math", "English", "Physics", "Chemistry"];
 for (let i = 0; i < subjects.length; i++) {
   console.log(subjects[i]);
 }
+console.log(subjects[subjects.length - 1]);
